@@ -36,5 +36,5 @@ end
 
 # Test cases
 puts decode_letter('.-', dictionary)
-puts decode_word('.... . .-.. .-.. ---', dictionary)
-puts decode_sentence('.... . .-.. .-.. ---  .-- --- .-. .-.. -..', dictionary)
+puts decode_word('-- -.--', dictionary)
+puts decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...', dictionary)
